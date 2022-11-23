@@ -13,9 +13,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node dist/server.js",
+    "start": "tsc && node dist/server.js",
     "dev": "nodemon dist/server.js",
-    "build": "tsc",
     "watch": "tsc -w"
   },
   "keywords": [],
