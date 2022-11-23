@@ -1,0 +1,10 @@
+/signup--------POST---------Sun Nov 13 2022 23:27:55 GMT+0500 (Узбекистан, стандартное время)---------Cannot read properties of undefined (reading 'user_id')
+/signup--------POST---------Sun Nov 13 2022 23:29:39 GMT+0500 (Узбекистан, стандартное время)---------Cannot read properties of undefined (reading 'user_id')
+/signup--------POST---------Sun Nov 13 2022 23:30:21 GMT+0500 (Узбекистан, стандартное время)---------Cannot read properties of undefined (reading 'fullname')
+/signup--------POST---------Sun Nov 13 2022 23:30:45 GMT+0500 (Узбекистан, стандартное время)---------user already exists
+/signup--------POST---------Sun Nov 13 2022 23:30:59 GMT+0500 (Узбекистан, стандартное время)---------user already exists
+/unversities?subject_1=1&subject_2=2--------GET---------Thu Nov 17 2022 21:34:32 GMT+0500 (Узбекистан, стандартное время)---------Converting circular structure to JSON
+    --> starting at object with constructor 'Array'
+    |     index 0 -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'Object'
+    --- property 'faculties' closes the circle
