@@ -10,12 +10,12 @@
   },
   "name": "final_exam",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node dist/server.js",
     "dev": "nodemon dist/server.js",
-    "build": "tsc --build",
+    "build": "tsc",
     "watch": "tsc -w"
   },
   "keywords": [],
